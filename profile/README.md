@@ -19,12 +19,6 @@ Bij Devtoday geloven we dat goede software het verschil maakt. Wij ontwerpen en 
 
 ---
 
-## Welke stacks gebruiken wij
-
-- **Laravel/Livewire** — Al onze web applicaties worden in Laravel gemaakt met Livewire als plugin.
-
----
-
 ## Onze technologie
 
 Wij werken met moderne en bewezen technologieën:

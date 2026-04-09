@@ -1,15 +1,14 @@
 <p align="center">
-  <strong>Devtoday.nl</strong>
+  <strong>Time2Dev.nl</strong>
 </p>
 
 <p align="center">
-  <strong>Devtoday</strong> is een Nederlands softwareontwikkelingsbedrijf gespecialiseerd in het bouwen van moderne, op maat gemaakte webapplicaties voor bedrijven en ondernemers.
+  <strong>Time2Dev</strong> is een Nederlands softwareontwikkelingsbedrijf gespecialiseerd in het bouwen van moderne, op maat gemaakte webapplicaties voor bedrijven en ondernemers.
 </p>
----
 
 ## Over ons
 
-Bij Devtoday geloven we dat goede software het verschil maakt. Wij ontwerpen en bouwen slimme digitale oplossingen die aansluiten op de specifieke behoeften van onze klanten. Van eenvoudige websites tot complexe bedrijfsapplicaties — wij leveren kwaliteit.
+Bij Time2Dev geloven we dat goede software het verschil maakt. Wij ontwerpen en bouwen slimme digitale oplossingen die aansluiten op de specifieke behoeften van onze klanten. Van eenvoudige websites tot complexe bedrijfsapplicaties — wij leveren kwaliteit.
 
 ---
 
@@ -49,9 +48,9 @@ Wij werken met moderne en bewezen technologieën:
 
 Heb je een project in gedachten of wil je meer weten over wat wij kunnen betekenen?
 
-- **Website:** [devtoday.nl](https://devtoday.nl)
-- **E-mail:** info@devtoday.nl
+- **Website:** [time2dev.nl](https://time2dev.nl)
+- **E-mail:** info@time2dev.nl
 
 ---
 
-> *Devtoday — Software die werkt, vandaag én morgen.*
+> *Time2Dev — Software die werkt, vandaag én morgen.*
